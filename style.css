@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-weight: bolder;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 20px;
+    color: rgb(135, 135, 135);
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    margin-right: -35px;
+    outline: none;
+    border: 2px solid peru;
+}
+.btn0{
+    height: 40px;
+    width: 70px;
+    outline: none;
+    border: none;
+    background-color: peru;
+    color: white;
+    border-radius: 60px;
+    font-size: 700;
+}
